@@ -14,7 +14,7 @@
 4. to run use command **node app**
 
 ----
-## which in to use when?
+## which one to use when?
 # app
 
 *use when want run app single time it will post at that time*
