@@ -25,7 +25,7 @@ return Math.floor(Math.random()*(max-min)+min);
 
 //assign job with particular time
 var job = new CronJob({
-cronTime: '40 47 11 * * 1-7',
+cronTime: '00 00 12 * * 1-7',
 onTick: function() {
 /*
 * Runs every weekday (
