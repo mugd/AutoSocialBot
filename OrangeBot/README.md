@@ -4,7 +4,7 @@
 ## What is OrangeBot?
 
 
-> An app that can post fb posts at any paticular time this app is configured for microsoft news.
+> An app that can post fb one post when fired,it is configured for microsoft news.
 
 ----
 ## Usage
