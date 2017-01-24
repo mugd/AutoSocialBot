@@ -9,7 +9,7 @@
 ----
 ## Usage
 1. For installing dependencies use **npm install**
-2. Add AccessToken [facebook](https://developers.facebook.com/tools-and-support/) []
+2. Add AccessToken [facebook](https://developers.facebook.com/tools-and-support/) [slack](https://my.slack.com/services/new/bot)
 3. To run use command **node app**
 
 ----
